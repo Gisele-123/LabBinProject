@@ -1,0 +1,2 @@
+0 infectious
+1 non-infectious
